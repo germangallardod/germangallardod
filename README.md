@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @germangallardod
 - 👀 I’m interested in ... HTML, CSS, VBA, C (Embedded), VHDL, Matlab 
-- 🌱 I’m currently learning ... Front-End
+- 🌱 I’m currently learning ... Cloud Engineering, 
 - 💞️ I’m looking to collaborate on ... Back-End Projects
 - 📫 How to reach me ... linkedin
 - 😄 Pronouns: ... ```
